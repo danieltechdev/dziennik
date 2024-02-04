@@ -1,0 +1,2 @@
+# dziennik
+Dziennik internetowy
